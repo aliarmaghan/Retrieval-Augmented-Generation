@@ -1,0 +1,8 @@
+langchain_community==0.3.21
+neo4j==5.28.1
+langchain_openai== 0.3.12
+langchain_groq
+streamlit
+langchain_huggingface
+langchain-neo4j
+sentence_transformers
